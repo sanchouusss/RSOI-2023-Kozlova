@@ -1,0 +1,1098 @@
+2023-03-08 00:10:16 INFO  Server:20 - /127.0.0.1:54534 connected
+2023-03-08 00:10:16 INFO  Server:20 - /127.0.0.1:54534 connected
+2023-03-08 00:10:32 INFO  PersistenceXmlParser:228 - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+2023-03-08 00:11:41 INFO  Server:20 - /127.0.0.1:54803 connected
+2023-03-08 00:11:41 INFO  Server:20 - /127.0.0.1:54803 connected
+2023-03-08 00:12:53 INFO  Server:20 - /127.0.0.1:55080 connected
+2023-03-08 00:12:53 INFO  Server:20 - /127.0.0.1:55080 connected
+2023-03-08 00:34:41 INFO  Server:20 - /127.0.0.1:63542 connected
+2023-03-08 00:34:41 INFO  Server:20 - /127.0.0.1:63542 connected
+2023-03-08 00:34:50 INFO  PersistenceXmlParser:228 - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+2023-03-08 00:45:03 INFO  Server:20 - /127.0.0.1:64277 connected
+2023-03-08 00:45:03 INFO  Server:20 - /127.0.0.1:64277 connected
+2023-03-08 00:45:12 INFO  PersistenceXmlParser:228 - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+2023-03-08 00:47:35 INFO  Server:20 - /127.0.0.1:64372 connected
+2023-03-08 00:47:35 INFO  Server:20 - /127.0.0.1:64372 connected
+2023-03-08 00:48:13 INFO  Server:20 - /127.0.0.1:64390 connected
+2023-03-08 00:48:13 INFO  Server:20 - /127.0.0.1:64390 connected
+2023-03-08 00:50:32 INFO  Server:20 - /127.0.0.1:64438 connected
+2023-03-08 00:50:32 INFO  Server:20 - /127.0.0.1:64438 connected
+2023-03-08 00:52:28 INFO  Server:20 - /127.0.0.1:64508 connected
+2023-03-08 00:52:28 INFO  Server:20 - /127.0.0.1:64508 connected
+2023-03-08 00:55:59 INFO  Server:20 - /127.0.0.1:64645 connected
+2023-03-08 00:55:59 INFO  Server:20 - /127.0.0.1:64645 connected
+2023-03-08 00:56:03 INFO  PersistenceXmlParser:228 - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+2023-03-08 00:58:19 INFO  Server:20 - /127.0.0.1:64731 connected
+2023-03-08 00:58:19 INFO  Server:20 - /127.0.0.1:64731 connected
+2023-03-08 00:59:05 INFO  Server:20 - /127.0.0.1:64773 connected
+2023-03-08 00:59:05 INFO  Server:20 - /127.0.0.1:64773 connected
+2023-03-08 00:59:15 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 00:59:15 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 00:59:15 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 00:59:15 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 00:59:15 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 00:59:15 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 00:59:15 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 00:59:15 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 00:59:16 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 00:59:17 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:02:25 INFO  Server:20 - /127.0.0.1:64891 connected
+2023-03-08 01:02:25 INFO  Server:20 - /127.0.0.1:64891 connected
+2023-03-08 01:02:30 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:02:30 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:02:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:02:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:02:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:02:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:02:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:02:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:02:31 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:02:32 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:05:27 INFO  Server:20 - /127.0.0.1:64978 connected
+2023-03-08 01:05:27 INFO  Server:20 - /127.0.0.1:64978 connected
+2023-03-08 01:05:31 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:05:31 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:05:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:05:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:05:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:05:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:05:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:05:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:05:32 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:05:33 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:09:31 INFO  LoginServerTask:34 - /127.0.0.1:64978 disconnected
+2023-03-08 01:09:31 INFO  LoginServerTask:34 - /127.0.0.1:64978 disconnected
+2023-03-08 01:09:48 INFO  Server:20 - /127.0.0.1:65124 connected
+2023-03-08 01:09:48 INFO  Server:20 - /127.0.0.1:65124 connected
+2023-03-08 01:09:53 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:09:53 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:09:54 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:09:54 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:09:54 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:09:54 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:09:54 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:09:54 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:09:54 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:09:55 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:21:42 INFO  Server:20 - /127.0.0.1:65437 connected
+2023-03-08 01:21:42 INFO  Server:20 - /127.0.0.1:65437 connected
+2023-03-08 01:21:46 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:21:46 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:21:47 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:21:47 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:21:47 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:21:47 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:21:47 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:21:47 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:21:47 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:21:48 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:24:20 INFO  LoginServerTask:34 - /127.0.0.1:65437 disconnected
+2023-03-08 01:24:20 INFO  LoginServerTask:34 - /127.0.0.1:65437 disconnected
+2023-03-08 01:24:32 INFO  Server:20 - /127.0.0.1:65523 connected
+2023-03-08 01:24:32 INFO  Server:20 - /127.0.0.1:65523 connected
+2023-03-08 01:33:28 INFO  Server:20 - /127.0.0.1:49314 connected
+2023-03-08 01:33:28 INFO  Server:20 - /127.0.0.1:49314 connected
+2023-03-08 01:33:33 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:33:33 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:33:33 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:33:33 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:33:33 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:33:33 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:33:33 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:33:33 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:33:34 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:33:35 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-08 01:39:31 INFO  Server:20 - /127.0.0.1:49466 connected
+2023-03-08 01:39:31 INFO  Server:20 - /127.0.0.1:49466 connected
+2023-03-08 01:39:38 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-08 01:39:38 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-08 01:39:38 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-08 01:39:38 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-08 01:39:38 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-08 01:39:38 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-08 01:39:38 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-08 01:39:38 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-08 01:39:39 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-08 01:39:40 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-16 18:27:09 INFO  Server:20 - /127.0.0.1:55028 connected
+2023-03-16 18:27:09 INFO  Server:20 - /127.0.0.1:55028 connected
+2023-03-16 18:27:40 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-16 18:27:40 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-16 18:27:41 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-16 18:27:41 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-16 18:27:41 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/psp_cursach]
+2023-03-16 18:27:41 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-16 18:27:41 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-16 18:27:41 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-16 18:27:41 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-16 18:27:42 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-16 18:29:51 INFO  LoginServerTask:34 - /127.0.0.1:55028 disconnected
+2023-03-16 18:29:51 INFO  LoginServerTask:34 - /127.0.0.1:55028 disconnected
+2023-03-16 18:30:08 INFO  Server:20 - /127.0.0.1:55048 connected
+2023-03-16 18:30:08 INFO  Server:20 - /127.0.0.1:55048 connected
+2023-03-16 18:30:17 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-16 18:30:17 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-16 18:30:18 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-16 18:30:18 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-16 18:30:18 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-16 18:30:18 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-16 18:30:18 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-16 18:30:18 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-16 18:30:18 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-16 18:30:19 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-16 18:31:36 INFO  LoginServerTask:34 - /127.0.0.1:55048 disconnected
+2023-03-16 18:31:36 INFO  LoginServerTask:34 - /127.0.0.1:55048 disconnected
+2023-03-16 18:31:44 INFO  Server:20 - /127.0.0.1:55099 connected
+2023-03-16 18:31:44 INFO  Server:20 - /127.0.0.1:55099 connected
+2023-03-16 18:31:54 INFO  LoginServerTask:34 - /127.0.0.1:55099 disconnected
+2023-03-16 18:31:54 INFO  LoginServerTask:34 - /127.0.0.1:55099 disconnected
+2023-03-16 18:32:00 INFO  Server:20 - /127.0.0.1:55107 connected
+2023-03-16 18:32:00 INFO  Server:20 - /127.0.0.1:55107 connected
+2023-03-16 18:33:06 INFO  Server:20 - /127.0.0.1:55118 connected
+2023-03-16 18:33:06 INFO  Server:20 - /127.0.0.1:55118 connected
+2023-03-16 18:33:15 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-16 18:33:15 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-16 18:33:16 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-16 18:33:16 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-16 18:33:16 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-16 18:33:16 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-16 18:33:16 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-16 18:33:16 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-16 18:33:16 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-16 18:33:17 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 22:55:00 INFO  Server:20 - /127.0.0.1:56272 connected
+2023-03-19 22:55:00 INFO  Server:20 - /127.0.0.1:56272 connected
+2023-03-19 22:55:12 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 22:55:12 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 22:55:13 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 22:55:13 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 22:55:13 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 22:55:13 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 22:55:13 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 22:55:13 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 22:55:13 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 22:55:14 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:10:35 INFO  Server:20 - /127.0.0.1:56758 connected
+2023-03-19 23:10:35 INFO  Server:20 - /127.0.0.1:56758 connected
+2023-03-19 23:11:01 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:11:01 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:11:02 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:11:02 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:11:02 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:11:02 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:11:02 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:11:02 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:11:02 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:11:03 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:15:23 INFO  Server:20 - /127.0.0.1:56851 connected
+2023-03-19 23:15:23 INFO  Server:20 - /127.0.0.1:56851 connected
+2023-03-19 23:15:30 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:15:30 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:15:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:15:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:15:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:15:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:15:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:15:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:15:31 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:15:32 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:27:21 INFO  Server:20 - /127.0.0.1:57199 connected
+2023-03-19 23:27:21 INFO  Server:20 - /127.0.0.1:57199 connected
+2023-03-19 23:27:30 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:27:30 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:27:30 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:27:30 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:27:30 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:27:30 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:27:30 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:27:30 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:27:31 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:27:31 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:28:13 INFO  Server:20 - /127.0.0.1:57230 connected
+2023-03-19 23:28:13 INFO  Server:20 - /127.0.0.1:57230 connected
+2023-03-19 23:28:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:28:20 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:28:20 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:28:20 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:28:20 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:28:20 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:28:20 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:28:20 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:28:21 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:28:21 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:35:37 INFO  Server:20 - /127.0.0.1:57345 connected
+2023-03-19 23:35:37 INFO  Server:20 - /127.0.0.1:57345 connected
+2023-03-19 23:35:45 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:35:45 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:35:46 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:35:46 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:35:46 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:35:46 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:35:46 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:35:46 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:35:46 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:35:47 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:45:09 INFO  AdminServerTask:78 - /127.0.0.1:57345 disconnected
+2023-03-19 23:45:09 INFO  AdminServerTask:78 - /127.0.0.1:57345 disconnected
+2023-03-19 23:45:25 INFO  Server:20 - /127.0.0.1:57629 connected
+2023-03-19 23:45:25 INFO  Server:20 - /127.0.0.1:57629 connected
+2023-03-19 23:45:30 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-19 23:45:30 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-19 23:45:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-19 23:45:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-19 23:45:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-19 23:45:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-19 23:45:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-19 23:45:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-19 23:45:31 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-19 23:45:32 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-19 23:46:51 INFO  StudentServerTask:51 - /127.0.0.1:57629 disconnected
+2023-03-19 23:46:51 INFO  StudentServerTask:51 - /127.0.0.1:57629 disconnected
+2023-03-19 23:47:02 INFO  Server:20 - /127.0.0.1:57683 connected
+2023-03-19 23:47:02 INFO  Server:20 - /127.0.0.1:57683 connected
+2023-03-20 01:09:16 INFO  AdminServerTask:78 - /127.0.0.1:57683 disconnected
+2023-03-20 01:09:16 INFO  AdminServerTask:78 - /127.0.0.1:57683 disconnected
+2023-03-20 01:09:55 INFO  Server:20 - /127.0.0.1:59652 connected
+2023-03-20 01:09:55 INFO  Server:20 - /127.0.0.1:59652 connected
+2023-03-20 01:10:04 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-20 01:10:04 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-20 01:10:04 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-20 01:10:04 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-20 01:10:04 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-20 01:10:04 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-20 01:10:04 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-20 01:10:04 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-20 01:10:05 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-20 01:10:06 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 01:10:19 INFO  AdminServerTask:78 - /127.0.0.1:59652 disconnected
+2023-03-20 01:10:19 INFO  AdminServerTask:78 - /127.0.0.1:59652 disconnected
+2023-03-20 01:10:28 INFO  Server:20 - /127.0.0.1:59675 connected
+2023-03-20 01:10:28 INFO  Server:20 - /127.0.0.1:59675 connected
+2023-03-20 01:11:42 INFO  AdminServerTask:78 - /127.0.0.1:59675 disconnected
+2023-03-20 01:11:42 INFO  AdminServerTask:78 - /127.0.0.1:59675 disconnected
+2023-03-20 01:11:58 INFO  Server:20 - /127.0.0.1:59729 connected
+2023-03-20 01:11:58 INFO  Server:20 - /127.0.0.1:59729 connected
+2023-03-20 01:12:16 INFO  AdminServerTask:78 - /127.0.0.1:59729 disconnected
+2023-03-20 01:12:16 INFO  AdminServerTask:78 - /127.0.0.1:59729 disconnected
+2023-03-20 01:12:22 INFO  Server:20 - /127.0.0.1:59744 connected
+2023-03-20 01:12:22 INFO  Server:20 - /127.0.0.1:59744 connected
+2023-03-20 01:12:55 INFO  Server:20 - /127.0.0.1:59767 connected
+2023-03-20 01:12:55 INFO  Server:20 - /127.0.0.1:59767 connected
+2023-03-20 01:13:02 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-20 01:13:02 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-20 01:13:03 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-20 01:13:03 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-20 01:13:03 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-20 01:13:03 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-20 01:13:03 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-20 01:13:03 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-20 01:13:03 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-20 01:13:04 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 01:13:43 INFO  Server:20 - /127.0.0.1:59794 connected
+2023-03-20 01:13:43 INFO  Server:20 - /127.0.0.1:59794 connected
+2023-03-20 01:13:50 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-20 01:13:51 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-20 01:13:51 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-20 01:13:51 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-20 01:13:51 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-20 01:13:51 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-20 01:13:51 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-20 01:13:51 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-20 01:13:52 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-20 01:13:52 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 12:49:04 INFO  Server:20 - /127.0.0.1:64243 connected
+2023-03-20 12:49:04 INFO  Server:20 - /127.0.0.1:64243 connected
+2023-03-20 12:49:12 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-20 12:49:12 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-20 12:49:12 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-20 12:49:12 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-20 12:49:12 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-20 12:49:12 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-20 12:49:12 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-20 12:49:12 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-20 12:49:13 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-20 12:49:14 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 12:51:25 INFO  AdminServerTask:78 - /127.0.0.1:64243 disconnected
+2023-03-20 12:51:25 INFO  AdminServerTask:78 - /127.0.0.1:64243 disconnected
+2023-03-20 12:51:32 INFO  Server:20 - /127.0.0.1:64362 connected
+2023-03-20 12:51:32 INFO  Server:20 - /127.0.0.1:64362 connected
+2023-03-20 12:51:59 INFO  StudentServerTask:51 - /127.0.0.1:64362 disconnected
+2023-03-20 12:51:59 INFO  StudentServerTask:51 - /127.0.0.1:64362 disconnected
+2023-03-28 17:59:48 INFO  Server:20 - /127.0.0.1:64444 connected
+2023-03-28 17:59:48 INFO  Server:20 - /127.0.0.1:64444 connected
+2023-03-28 17:59:56 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-28 17:59:56 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-28 17:59:56 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-28 17:59:56 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-28 17:59:56 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-28 17:59:56 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-28 17:59:56 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-28 17:59:56 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-28 17:59:57 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-28 17:59:58 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-28 18:01:30 INFO  AdminServerTask:78 - /127.0.0.1:64444 disconnected
+2023-03-28 18:01:30 INFO  AdminServerTask:78 - /127.0.0.1:64444 disconnected
+2023-03-29 11:53:52 INFO  Server:20 - /127.0.0.1:57523 connected
+2023-03-29 11:53:52 INFO  Server:20 - /127.0.0.1:57523 connected
+2023-03-29 11:53:59 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-29 11:53:59 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-29 11:54:00 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-29 11:54:00 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-29 11:54:00 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-29 11:54:00 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-29 11:54:00 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-29 11:54:00 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-29 11:54:00 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-29 11:54:01 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-29 11:54:08 INFO  AdminServerTask:78 - /127.0.0.1:57523 disconnected
+2023-03-29 11:54:08 INFO  AdminServerTask:78 - /127.0.0.1:57523 disconnected
+2023-03-29 23:12:15 INFO  Server:20 - /127.0.0.1:54770 connected
+2023-03-29 23:12:15 INFO  Server:20 - /127.0.0.1:54770 connected
+2023-03-29 23:12:24 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-29 23:12:24 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-29 23:12:25 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-29 23:12:25 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-29 23:12:25 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-29 23:12:25 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-29 23:12:25 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-29 23:12:25 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-29 23:12:26 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-29 23:12:27 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-29 23:51:05 INFO  Server:20 - /127.0.0.1:64286 connected
+2023-03-29 23:51:05 INFO  Server:20 - /127.0.0.1:64286 connected
+2023-03-30 00:11:59 INFO  Server:20 - /127.0.0.1:53359 connected
+2023-03-30 00:11:59 INFO  Server:20 - /127.0.0.1:53359 connected
+2023-03-30 00:12:06 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-30 00:12:06 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-30 00:12:06 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-30 00:12:06 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-30 00:12:06 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-30 00:12:06 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-30 00:12:06 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-30 00:12:06 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-30 00:12:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-30 00:12:07 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-30 00:12:13 INFO  AdminServerTask:78 - /127.0.0.1:53359 disconnected
+2023-03-30 00:12:13 INFO  AdminServerTask:78 - /127.0.0.1:53359 disconnected
+2023-03-30 00:18:15 INFO  Server:20 - /127.0.0.1:55105 connected
+2023-03-30 00:18:15 INFO  Server:20 - /127.0.0.1:55105 connected
+2023-03-30 00:18:22 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-30 00:18:22 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-30 00:18:22 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-30 00:18:22 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-30 00:18:22 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/scholarship_db]
+2023-03-30 00:18:22 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-30 00:18:22 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-30 00:18:22 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-30 00:18:23 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-30 00:18:23 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-30 00:18:23 INFO  LoginServerTask:34 - /127.0.0.1:55105 disconnected
+2023-03-30 00:18:23 INFO  LoginServerTask:34 - /127.0.0.1:55105 disconnected
+2023-03-30 00:18:46 INFO  Server:20 - /127.0.0.1:55227 connected
+2023-03-30 00:18:46 INFO  Server:20 - /127.0.0.1:55227 connected
+2023-03-30 00:18:53 INFO  LoginServerTask:34 - /127.0.0.1:55227 disconnected
+2023-03-30 00:18:53 INFO  LoginServerTask:34 - /127.0.0.1:55227 disconnected
+2023-03-30 00:19:24 INFO  Server:20 - /127.0.0.1:55433 connected
+2023-03-30 00:19:24 INFO  Server:20 - /127.0.0.1:55433 connected
+2023-03-30 00:19:31 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-30 00:19:31 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-30 00:19:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-30 00:19:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-30 00:19:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-30 00:19:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-30 00:19:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-30 00:19:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-30 00:19:32 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-30 00:19:32 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-30 00:19:44 INFO  AdminServerTask:78 - /127.0.0.1:55433 disconnected
+2023-03-30 00:19:44 INFO  AdminServerTask:78 - /127.0.0.1:55433 disconnected
+2023-03-30 18:25:21 INFO  Server:20 - /127.0.0.1:52727 connected
+2023-03-30 18:25:21 INFO  Server:20 - /127.0.0.1:52727 connected
+2023-03-30 18:25:28 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-30 18:25:28 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-30 18:25:28 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-30 18:25:28 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-30 18:25:28 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-30 18:25:28 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-30 18:25:28 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-30 18:25:28 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-30 18:25:29 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-30 18:25:30 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-30 18:27:44 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-03-30 18:27:44 ERROR SqlExceptionHelper:138 - Duplicate entry '14' for key 'students.PRIMARY'
+2023-03-30 18:28:05 INFO  AdminServerTask:78 - /127.0.0.1:52727 disconnected
+2023-03-30 18:28:05 INFO  AdminServerTask:78 - /127.0.0.1:52727 disconnected
+2023-03-30 18:28:40 INFO  Server:20 - /127.0.0.1:53447 connected
+2023-03-30 18:28:40 INFO  Server:20 - /127.0.0.1:53447 connected
+2023-03-30 18:28:46 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-03-30 18:28:46 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-03-30 18:28:46 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-03-30 18:28:46 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-03-30 18:28:46 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-03-30 18:28:46 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-03-30 18:28:46 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-03-30 18:28:46 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-03-30 18:28:47 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-03-30 18:28:48 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-01 17:36:53 INFO  Server:20 - /127.0.0.1:61295 connected
+2023-04-01 17:36:53 INFO  Server:20 - /127.0.0.1:61295 connected
+2023-04-01 17:37:00 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-01 17:37:00 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-01 17:37:01 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-01 17:37:01 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-01 17:37:01 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-01 17:37:01 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-01 17:37:01 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-01 17:37:01 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-01 17:37:01 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-01 17:37:03 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-01 17:37:41 INFO  LoginServerTask:34 - /127.0.0.1:61295 disconnected
+2023-04-01 17:37:41 INFO  LoginServerTask:34 - /127.0.0.1:61295 disconnected
+2023-04-01 17:42:46 INFO  Server:20 - /127.0.0.1:61688 connected
+2023-04-01 17:42:46 INFO  Server:20 - /127.0.0.1:61688 connected
+2023-04-01 17:42:53 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-01 17:42:53 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-01 17:42:53 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-01 17:42:53 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-01 17:42:53 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-01 17:42:53 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-01 17:42:53 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-01 17:42:53 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-01 17:42:54 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-01 17:42:55 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-01 17:43:08 INFO  AdminServerTask:78 - /127.0.0.1:61688 disconnected
+2023-04-01 17:43:08 INFO  AdminServerTask:78 - /127.0.0.1:61688 disconnected
+2023-04-01 17:53:01 INFO  Server:20 - /127.0.0.1:62332 connected
+2023-04-01 17:53:01 INFO  Server:20 - /127.0.0.1:62332 connected
+2023-04-01 17:53:09 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-01 17:53:09 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-01 17:53:09 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-01 17:53:09 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-01 17:53:09 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-01 17:53:09 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-01 17:53:09 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-01 17:53:09 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-01 17:53:09 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-01 17:53:10 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-01 17:53:19 INFO  AdminServerTask:78 - /127.0.0.1:62332 disconnected
+2023-04-01 17:53:19 INFO  AdminServerTask:78 - /127.0.0.1:62332 disconnected
+2023-04-01 17:53:39 INFO  Server:20 - /127.0.0.1:62368 connected
+2023-04-01 17:53:39 INFO  Server:20 - /127.0.0.1:62368 connected
+2023-04-01 17:54:03 INFO  StudentServerTask:51 - /127.0.0.1:62368 disconnected
+2023-04-01 17:54:03 INFO  StudentServerTask:51 - /127.0.0.1:62368 disconnected
+2023-04-01 18:09:26 INFO  Server:20 - /127.0.0.1:63000 connected
+2023-04-01 18:09:26 INFO  Server:20 - /127.0.0.1:63000 connected
+2023-04-01 18:09:31 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-01 18:09:31 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-01 18:09:31 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-01 18:09:31 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-01 18:09:31 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-01 18:09:31 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-01 18:09:31 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-01 18:09:31 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-01 18:09:32 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-01 18:09:32 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-01 18:10:01 INFO  StudentServerTask:51 - /127.0.0.1:63000 disconnected
+2023-04-01 18:10:01 INFO  StudentServerTask:51 - /127.0.0.1:63000 disconnected
+2023-04-11 16:07:46 INFO  Server:20 - /127.0.0.1:59825 connected
+2023-04-11 16:07:46 INFO  Server:20 - /127.0.0.1:59825 connected
+2023-04-11 16:07:53 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 16:07:53 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 16:07:53 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 16:07:53 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 16:07:53 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 16:07:53 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 16:07:53 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 16:07:53 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 16:07:53 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 16:07:54 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 16:08:04 INFO  AdminServerTask:78 - /127.0.0.1:59825 disconnected
+2023-04-11 16:08:04 INFO  AdminServerTask:78 - /127.0.0.1:59825 disconnected
+2023-04-11 16:21:05 INFO  Server:20 - /127.0.0.1:60099 connected
+2023-04-11 16:21:05 INFO  Server:20 - /127.0.0.1:60099 connected
+2023-04-11 16:21:11 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 16:21:11 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 16:21:12 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 16:21:12 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 16:21:12 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 16:21:12 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 16:21:12 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 16:21:12 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 16:21:12 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 16:21:12 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 16:21:15 INFO  AdminServerTask:78 - /127.0.0.1:60099 disconnected
+2023-04-11 16:21:15 INFO  AdminServerTask:78 - /127.0.0.1:60099 disconnected
+2023-04-11 17:19:59 INFO  Server:20 - /127.0.0.1:61018 connected
+2023-04-11 17:19:59 INFO  Server:20 - /127.0.0.1:61018 connected
+2023-04-11 17:20:05 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 17:20:05 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 17:20:06 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 17:20:06 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 17:20:06 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 17:20:06 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 17:20:06 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 17:20:06 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 17:20:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 17:20:07 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 17:20:29 INFO  AdminServerTask:78 - /127.0.0.1:61018 disconnected
+2023-04-11 17:20:29 INFO  AdminServerTask:78 - /127.0.0.1:61018 disconnected
+2023-04-11 17:22:46 INFO  Server:20 - /127.0.0.1:61085 connected
+2023-04-11 17:22:46 INFO  Server:20 - /127.0.0.1:61085 connected
+2023-04-11 17:22:52 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 17:22:53 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 17:22:53 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 17:22:53 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 17:22:53 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 17:22:53 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 17:22:53 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 17:22:53 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 17:22:53 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 17:22:54 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 17:23:03 INFO  AdminServerTask:78 - /127.0.0.1:61085 disconnected
+2023-04-11 17:23:03 INFO  AdminServerTask:78 - /127.0.0.1:61085 disconnected
+2023-04-11 17:23:30 INFO  Server:20 - /127.0.0.1:61110 connected
+2023-04-11 17:23:30 INFO  Server:20 - /127.0.0.1:61110 connected
+2023-04-11 17:23:35 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 17:23:35 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 17:23:36 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 17:23:36 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 17:23:36 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 17:23:36 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 17:23:36 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 17:23:36 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 17:23:36 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 17:23:37 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 17:23:47 INFO  AdminServerTask:78 - /127.0.0.1:61110 disconnected
+2023-04-11 17:23:47 INFO  AdminServerTask:78 - /127.0.0.1:61110 disconnected
+2023-04-11 18:21:50 INFO  Server:20 - /127.0.0.1:64292 connected
+2023-04-11 18:21:50 INFO  Server:20 - /127.0.0.1:64292 connected
+2023-04-11 18:21:56 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 18:21:56 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 18:21:57 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 18:21:57 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 18:21:57 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/scholarship_db]
+2023-04-11 18:21:57 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 18:21:57 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 18:21:57 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 18:21:57 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 18:21:58 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 18:21:58 INFO  LoginServerTask:34 - /127.0.0.1:64292 disconnected
+2023-04-11 18:21:58 INFO  LoginServerTask:34 - /127.0.0.1:64292 disconnected
+2023-04-11 18:22:15 INFO  Server:20 - /127.0.0.1:64306 connected
+2023-04-11 18:22:15 INFO  Server:20 - /127.0.0.1:64306 connected
+2023-04-11 18:22:20 INFO  LoginServerTask:34 - /127.0.0.1:64306 disconnected
+2023-04-11 18:22:20 INFO  LoginServerTask:34 - /127.0.0.1:64306 disconnected
+2023-04-11 18:22:56 INFO  Server:20 - /127.0.0.1:64322 connected
+2023-04-11 18:22:56 INFO  Server:20 - /127.0.0.1:64322 connected
+2023-04-11 18:23:02 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 18:23:02 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 18:23:03 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 18:23:03 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 18:23:03 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 18:23:03 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 18:23:03 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 18:23:03 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 18:23:03 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 18:23:04 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 18:23:12 INFO  AdminServerTask:78 - /127.0.0.1:64322 disconnected
+2023-04-11 18:23:12 INFO  AdminServerTask:78 - /127.0.0.1:64322 disconnected
+2023-04-11 18:24:14 INFO  Server:20 - /127.0.0.1:64352 connected
+2023-04-11 18:24:14 INFO  Server:20 - /127.0.0.1:64352 connected
+2023-04-11 18:24:20 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 18:24:20 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 18:24:21 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 18:24:21 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 18:24:21 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/scholarship_db]
+2023-04-11 18:24:21 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 18:24:21 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 18:24:21 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 18:24:21 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 18:24:22 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 18:24:22 INFO  LoginServerTask:34 - /127.0.0.1:64352 disconnected
+2023-04-11 18:24:22 INFO  LoginServerTask:34 - /127.0.0.1:64352 disconnected
+2023-04-11 18:25:07 INFO  Server:20 - /127.0.0.1:64372 connected
+2023-04-11 18:25:07 INFO  Server:20 - /127.0.0.1:64372 connected
+2023-04-11 18:25:13 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-04-11 18:25:13 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-04-11 18:25:13 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-04-11 18:25:13 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-04-11 18:25:13 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-04-11 18:25:13 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-04-11 18:25:13 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-04-11 18:25:13 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-04-11 18:25:14 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11 18:25:15 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11 18:25:27 INFO  AdminServerTask:78 - /127.0.0.1:64372 disconnected
+2023-04-11 18:25:27 INFO  AdminServerTask:78 - /127.0.0.1:64372 disconnected
+2023-05-02 13:49:43 INFO  Server:20 - /127.0.0.1:63547 connected
+2023-05-02 13:49:43 INFO  Server:20 - /127.0.0.1:63547 connected
+2023-05-02 13:50:19 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 13:50:19 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 13:50:20 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 13:50:20 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 13:50:20 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 13:50:20 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 13:50:20 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 13:50:20 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 13:50:20 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 13:50:21 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 14:04:27 INFO  AdminServerTask:78 - /127.0.0.1:63547 disconnected
+2023-05-02 14:04:27 INFO  AdminServerTask:78 - /127.0.0.1:63547 disconnected
+2023-05-02 14:04:33 INFO  Server:20 - /127.0.0.1:50322 connected
+2023-05-02 14:04:33 INFO  Server:20 - /127.0.0.1:50322 connected
+2023-05-02 14:04:45 INFO  StudentServerTask:51 - /127.0.0.1:50322 disconnected
+2023-05-02 14:04:45 INFO  StudentServerTask:51 - /127.0.0.1:50322 disconnected
+2023-05-02 14:04:48 INFO  Server:20 - /127.0.0.1:50379 connected
+2023-05-02 14:04:48 INFO  Server:20 - /127.0.0.1:50379 connected
+2023-05-02 14:04:59 INFO  LoginServerTask:34 - /127.0.0.1:50379 disconnected
+2023-05-02 14:04:59 INFO  LoginServerTask:34 - /127.0.0.1:50379 disconnected
+2023-05-02 14:05:09 INFO  Server:20 - /127.0.0.1:50429 connected
+2023-05-02 14:05:09 INFO  Server:20 - /127.0.0.1:50429 connected
+2023-05-02 14:06:54 INFO  StudentServerTask:51 - /127.0.0.1:50429 disconnected
+2023-05-02 14:06:54 INFO  StudentServerTask:51 - /127.0.0.1:50429 disconnected
+2023-05-02 14:06:57 INFO  Server:20 - /127.0.0.1:50858 connected
+2023-05-02 14:06:57 INFO  Server:20 - /127.0.0.1:50858 connected
+2023-05-02 14:07:08 INFO  StudentServerTask:51 - /127.0.0.1:50858 disconnected
+2023-05-02 14:07:08 INFO  StudentServerTask:51 - /127.0.0.1:50858 disconnected
+2023-05-02 14:07:10 INFO  Server:20 - /127.0.0.1:50934 connected
+2023-05-02 14:07:10 INFO  Server:20 - /127.0.0.1:50934 connected
+2023-05-02 14:07:27 INFO  LoginServerTask:34 - /127.0.0.1:50934 disconnected
+2023-05-02 14:07:27 INFO  LoginServerTask:34 - /127.0.0.1:50934 disconnected
+2023-05-02 14:07:56 INFO  Server:20 - /127.0.0.1:51186 connected
+2023-05-02 14:07:56 INFO  Server:20 - /127.0.0.1:51186 connected
+2023-05-02 14:08:01 INFO  LoginServerTask:34 - /127.0.0.1:51186 disconnected
+2023-05-02 14:08:01 INFO  LoginServerTask:34 - /127.0.0.1:51186 disconnected
+2023-05-02 14:08:11 INFO  Server:20 - /127.0.0.1:51278 connected
+2023-05-02 14:08:11 INFO  Server:20 - /127.0.0.1:51278 connected
+2023-05-02 14:11:02 INFO  StudentServerTask:51 - /127.0.0.1:51278 disconnected
+2023-05-02 14:11:02 INFO  StudentServerTask:51 - /127.0.0.1:51278 disconnected
+2023-05-02 14:11:09 INFO  Server:20 - /127.0.0.1:52142 connected
+2023-05-02 14:11:09 INFO  Server:20 - /127.0.0.1:52142 connected
+2023-05-02 14:14:38 INFO  AdminServerTask:78 - /127.0.0.1:52142 disconnected
+2023-05-02 14:14:38 INFO  AdminServerTask:78 - /127.0.0.1:52142 disconnected
+2023-05-02 14:14:41 INFO  Server:20 - /127.0.0.1:53128 connected
+2023-05-02 14:14:41 INFO  Server:20 - /127.0.0.1:53128 connected
+2023-05-02 14:17:35 INFO  StudentServerTask:51 - /127.0.0.1:53128 disconnected
+2023-05-02 14:17:35 INFO  StudentServerTask:51 - /127.0.0.1:53128 disconnected
+2023-05-02 14:17:37 INFO  Server:20 - /127.0.0.1:53938 connected
+2023-05-02 14:17:37 INFO  Server:20 - /127.0.0.1:53938 connected
+2023-05-02 14:19:59 INFO  AdminServerTask:78 - /127.0.0.1:53938 disconnected
+2023-05-02 14:19:59 INFO  AdminServerTask:78 - /127.0.0.1:53938 disconnected
+2023-05-02 14:20:03 INFO  Server:20 - /127.0.0.1:54550 connected
+2023-05-02 14:20:03 INFO  Server:20 - /127.0.0.1:54550 connected
+2023-05-02 14:32:16 INFO  AdminServerTask:78 - /127.0.0.1:54550 disconnected
+2023-05-02 14:32:16 INFO  AdminServerTask:78 - /127.0.0.1:54550 disconnected
+2023-05-02 14:32:22 INFO  Server:20 - /127.0.0.1:57474 connected
+2023-05-02 14:32:22 INFO  Server:20 - /127.0.0.1:57474 connected
+2023-05-02 14:32:53 INFO  StudentServerTask:51 - /127.0.0.1:57474 disconnected
+2023-05-02 14:32:53 INFO  StudentServerTask:51 - /127.0.0.1:57474 disconnected
+2023-05-02 14:32:56 INFO  Server:20 - /127.0.0.1:57571 connected
+2023-05-02 14:32:56 INFO  Server:20 - /127.0.0.1:57571 connected
+2023-05-02 14:33:28 INFO  AdminServerTask:78 - /127.0.0.1:57571 disconnected
+2023-05-02 14:33:28 INFO  AdminServerTask:78 - /127.0.0.1:57571 disconnected
+2023-05-02 14:33:30 INFO  Server:20 - /127.0.0.1:57660 connected
+2023-05-02 14:33:30 INFO  Server:20 - /127.0.0.1:57660 connected
+2023-05-02 14:47:41 INFO  StudentServerTask:51 - /127.0.0.1:57660 disconnected
+2023-05-02 14:47:41 INFO  StudentServerTask:51 - /127.0.0.1:57660 disconnected
+2023-05-02 14:47:46 INFO  Server:20 - /127.0.0.1:60800 connected
+2023-05-02 14:47:46 INFO  Server:20 - /127.0.0.1:60800 connected
+2023-05-02 14:50:15 INFO  StudentServerTask:51 - /127.0.0.1:60800 disconnected
+2023-05-02 14:50:15 INFO  StudentServerTask:51 - /127.0.0.1:60800 disconnected
+2023-05-02 14:50:20 INFO  Server:20 - /127.0.0.1:61169 connected
+2023-05-02 14:50:20 INFO  Server:20 - /127.0.0.1:61169 connected
+2023-05-02 14:50:33 INFO  AdminServerTask:78 - /127.0.0.1:61169 disconnected
+2023-05-02 14:50:33 INFO  AdminServerTask:78 - /127.0.0.1:61169 disconnected
+2023-05-02 15:06:31 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:06:31 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:06:32 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:06:32 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:06:32 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:06:32 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:06:32 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:06:32 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:06:32 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:06:33 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:07:26 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:07:26 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:07:26 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:07:26 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:07:26 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:07:26 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:07:26 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:07:26 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:07:27 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:07:28 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:07:28 WARN  SqlExceptionHelper:133 - SQL Error: 1452, SQLState: 23000
+2023-05-02 15:07:28 ERROR SqlExceptionHelper:138 - Cannot add or update a child row: a foreign key constraint fails (`kursach`.`special_scholarship`, CONSTRAINT `fk_special_scholarship_students1` FOREIGN KEY (`id`) REFERENCES `students` (`id`) ON DELETE CASCADE)
+2023-05-02 15:07:28 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:07:28 ERROR SqlExceptionHelper:138 - Duplicate entry 'da' for key 'users.login_UNIQUE'
+2023-05-02 15:07:28 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:07:28 ERROR SqlExceptionHelper:138 - Duplicate entry '12' for key 'speciality.PRIMARY'
+2023-05-02 15:07:28 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:07:28 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:09:06 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:09:06 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:09:06 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:09:06 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:09:06 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:09:06 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:09:06 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:09:06 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:09:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:09:07 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:09:07 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:09:07 ERROR SqlExceptionHelper:138 - Duplicate entry 'da' for key 'users.login_UNIQUE'
+2023-05-02 15:13:40 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:13:40 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:13:40 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:13:40 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:13:40 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:13:40 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:13:40 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:13:40 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:13:41 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:13:41 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:13:42 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:13:42 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:13:42 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:13:42 ERROR SqlExceptionHelper:138 - Column 'speciality_id' cannot be null
+2023-05-02 15:13:42 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:13:42 ERROR SqlExceptionHelper:138 - Duplicate entry '222' for key 'subjects.PRIMARY'
+2023-05-02 15:16:21 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:16:21 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:16:21 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:16:21 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:16:21 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:16:21 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:16:21 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:16:21 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:16:22 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:16:22 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:16:23 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:16:23 ERROR SqlExceptionHelper:138 - Column 'speciality_id' cannot be null
+2023-05-02 15:17:09 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:17:09 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:17:09 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:17:09 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:17:09 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:17:09 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:17:09 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:17:09 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:17:09 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:17:10 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:17:10 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:17:10 ERROR SqlExceptionHelper:138 - Column 'speciality_id' cannot be null
+2023-05-02 15:17:46 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:17:46 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:17:47 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:17:47 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:17:47 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:17:47 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:17:47 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:17:47 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:17:47 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:17:48 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:17:48 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:17:48 ERROR SqlExceptionHelper:138 - Duplicate entry '322' for key 'students.PRIMARY'
+2023-05-02 15:18:17 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:18:17 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:18:17 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:18:17 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:18:17 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:18:17 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:18:17 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:18:17 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:18:18 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:18:18 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:18:18 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:18:18 ERROR SqlExceptionHelper:138 - Duplicate entry '322' for key 'students.PRIMARY'
+2023-05-02 15:18:35 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:18:35 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:18:35 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:18:35 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:18:35 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:18:35 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:18:35 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:18:35 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:18:35 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:18:36 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:18:57 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:18:57 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:18:57 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:18:57 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:18:57 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:18:57 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:18:57 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:18:57 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:18:57 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:18:58 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:19:33 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:19:33 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:19:33 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:19:33 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:19:33 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:19:33 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:19:33 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:19:33 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:19:33 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:19:34 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:19:34 WARN  SqlExceptionHelper:133 - SQL Error: 1452, SQLState: 23000
+2023-05-02 15:19:34 ERROR SqlExceptionHelper:138 - Cannot add or update a child row: a foreign key constraint fails (`kursach`.`special_scholarship`, CONSTRAINT `fk_special_scholarship_students1` FOREIGN KEY (`id`) REFERENCES `students` (`id`) ON DELETE CASCADE)
+2023-05-02 15:19:34 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:19:34 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:20:36 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:20:36 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:20:36 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:20:36 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:20:36 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:20:36 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:20:36 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:20:36 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:20:36 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:20:37 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:20:59 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:20:59 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:20:59 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:20:59 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:20:59 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:20:59 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:20:59 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:20:59 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:21:00 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:21:00 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:21:00 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:21:00 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:21:13 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:21:13 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:21:13 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:21:13 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:21:13 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:21:13 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:21:13 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:21:13 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:21:13 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:21:14 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Duplicate entry '322' for key 'special_scholarship.PRIMARY'
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Duplicate entry '134' for key 'users.login_UNIQUE'
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Duplicate entry '14' for key 'speciality.PRIMARY'
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Duplicate entry '322' for key 'students.PRIMARY'
+2023-05-02 15:21:14 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:14 ERROR SqlExceptionHelper:138 - Duplicate entry '222' for key 'subjects.PRIMARY'
+2023-05-02 15:21:30 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:21:30 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:21:30 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:21:30 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:21:30 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:21:30 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:21:30 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:21:30 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:21:30 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:21:31 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:21:31 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:21:31 ERROR SqlExceptionHelper:138 - Duplicate entry '134' for key 'users.login_UNIQUE'
+2023-05-02 15:21:55 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:21:55 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:21:55 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:21:55 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:21:55 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:21:55 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:21:55 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:21:55 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:21:55 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:21:56 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:22:03 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:22:03 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:22:03 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:22:03 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:22:03 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:22:03 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:22:03 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:22:03 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:22:03 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:22:04 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:22:04 WARN  SqlExceptionHelper:133 - SQL Error: 1062, SQLState: 23000
+2023-05-02 15:22:04 ERROR SqlExceptionHelper:138 - Duplicate entry '14' for key 'speciality.PRIMARY'
+2023-05-02 15:22:55 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:22:55 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:22:56 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:22:56 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:22:56 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:22:56 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:22:56 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:22:56 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:22:56 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:22:57 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:23:05 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:23:05 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:23:05 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:23:05 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:23:05 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:23:05 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:23:05 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:23:05 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:23:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:23:06 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:23:12 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:23:12 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:23:12 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:23:12 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:23:12 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:23:12 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:23:12 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:23:12 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:23:12 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:23:13 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:23:19 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:23:19 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:23:19 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:23:19 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:23:19 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:23:19 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:23:19 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:23:19 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:23:19 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:23:20 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:23:25 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:23:25 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:23:26 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:23:26 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:23:26 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:23:26 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:23:26 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:23:26 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:23:26 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:23:27 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:23:27 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:23:27 ERROR SqlExceptionHelper:138 - Column 'students_id' cannot be null
+2023-05-02 15:23:55 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:23:55 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:23:55 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:23:55 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:23:55 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:23:55 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:23:55 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:23:55 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:23:56 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:23:56 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:24:02 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:24:02 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:24:03 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:24:03 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:24:03 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:24:03 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:24:03 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:24:03 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:24:03 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:24:04 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:24:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:24:37 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:24:37 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:24:37 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:24:37 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:24:37 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:24:37 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:24:37 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:24:38 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:24:38 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:24:48 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:24:48 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:24:48 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:24:48 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:24:48 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:24:48 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:24:48 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:24:48 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:24:49 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:24:49 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:24:53 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:24:53 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:24:53 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:24:53 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:24:53 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:24:53 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:24:53 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:24:53 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:24:53 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:24:54 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:25:05 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:25:05 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:25:05 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:25:05 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:25:05 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:25:05 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:25:05 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:25:05 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:25:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:25:06 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:25:15 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:25:15 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:25:16 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:25:16 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:25:16 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:25:16 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:25:16 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:25:16 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:25:16 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:25:17 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:25:53 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:25:54 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:25:54 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:25:54 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:25:54 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:25:54 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:25:54 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:25:54 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:25:54 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:25:55 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:26:05 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:26:05 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:26:05 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:26:05 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:26:05 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:26:05 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:26:05 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:26:05 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:26:06 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:26:06 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:27:34 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:27:34 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:27:34 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:27:34 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:27:34 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:27:34 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:27:34 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:27:34 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:27:35 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:27:35 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:27:35 WARN  SqlExceptionHelper:133 - SQL Error: 1452, SQLState: 23000
+2023-05-02 15:27:35 ERROR SqlExceptionHelper:138 - Cannot add or update a child row: a foreign key constraint fails (`kursach`.`special_scholarship`, CONSTRAINT `fk_special_scholarship_students1` FOREIGN KEY (`id`) REFERENCES `students` (`id`) ON DELETE CASCADE)
+2023-05-02 15:27:36 WARN  SqlExceptionHelper:133 - SQL Error: 1048, SQLState: 23000
+2023-05-02 15:27:36 ERROR SqlExceptionHelper:138 - Column 'subjects_id' cannot be null
+2023-05-02 15:30:43 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:30:43 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:30:44 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:30:44 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:30:44 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:30:44 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:30:44 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:30:44 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:30:44 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:30:45 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-02 15:30:45 WARN  SqlExceptionHelper:133 - SQL Error: 1452, SQLState: 23000
+2023-05-02 15:30:45 ERROR SqlExceptionHelper:138 - Cannot add or update a child row: a foreign key constraint fails (`kursach`.`special_scholarship`, CONSTRAINT `fk_special_scholarship_students1` FOREIGN KEY (`id`) REFERENCES `students` (`id`) ON DELETE CASCADE)
+2023-05-02 15:32:01 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: sasha]
+2023-05-02 15:32:01 INFO  Version:44 - HHH000412: Hibernate ORM core version [WORKING]
+2023-05-02 15:32:01 WARN  pooling:77 - HHH10001002: Using built-in connection pool (not intended for production use)
+2023-05-02 15:32:01 INFO  pooling:136 - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-05-02 15:32:01 INFO  pooling:158 - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/kursach]
+2023-05-02 15:32:01 INFO  pooling:167 - HHH10001001: Connection properties: {password=****, user=root}
+2023-05-02 15:32:01 INFO  pooling:171 - HHH10001003: Autocommit mode: false
+2023-05-02 15:32:01 INFO  pooling:363 - HHH10001115: Connection pool size: 20 (min=1)
+2023-05-02 15:32:02 INFO  SQL dialect:66 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-05-02 15:32:02 INFO  JtaPlatformInitiator:51 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

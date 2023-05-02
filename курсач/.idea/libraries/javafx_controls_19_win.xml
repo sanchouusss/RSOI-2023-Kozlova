@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javafx-controls-19-win">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/javafx-controls-19-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
